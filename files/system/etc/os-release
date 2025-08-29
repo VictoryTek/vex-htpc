@@ -1,0 +1,11 @@
+NAME="VexHTPC"
+VERSION="42 (Based on Silverblue)"
+ID=vex-htpc
+ID_LIKE=fedora
+VERSION_ID=42
+PLATFORM_ID="platform:f42"
+PRETTY_NAME="VexHTPC (FROM Silverblue)"
+ANSI_COLOR="0;36"
+CPE_NAME="cpe:/o:vex:htpc:42"
+DEFAULT_HOSTNAME="vex"
+HOME_URL="https://github.com/VictoryTek/vex-htpc"

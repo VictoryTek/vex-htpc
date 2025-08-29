@@ -1,0 +1,3 @@
+type: script
+scripts:
+  - 00-kora-icon-theme.sh
