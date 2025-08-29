@@ -14,6 +14,7 @@ image-version: 42 # latest is also supported if you want new updates ASAP
 modules:
 
   - from-file: module-recipes/files.yml
+  - from-file: module-recipes/dnf.yml
   - from-file: module-recipes/wallpapers.yml
   - from-file: module-recipes/bling.yml
   
