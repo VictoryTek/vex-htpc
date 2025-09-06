@@ -2,7 +2,7 @@
 
 # Generate ISO for VexOS
 [group('Apps')]
-generate-iso-vex-os:
+generate-iso-vex-htpc:
     #!/usr/bin/env bash
     set -euo pipefail
     echo "Creating ISO directory..."
