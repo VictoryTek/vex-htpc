@@ -13,8 +13,7 @@ Single GNOME-based image: `vex-htpc`.
 
 ## Features (short list)
 - Gnome DE (I dont like KDE) (maybe Cosmic in the future)
-- Developer + container tools (Docker, buildah, skopeo, virtualization group)
-- VS Code, Ghostty, Starship
+- Ghostty, Starship
 - Curated Flatpaks (Brave, LibreWolf, Bitwarden, etc.)
 - GNOME extensions (Dash to Dock, Wallpaper Slideshow, more)
 - Branded wallpapers with light/dark pairing & defaults
