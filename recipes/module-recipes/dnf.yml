@@ -26,6 +26,7 @@ modules:
         - cockpit
         - fastfetch
         - inxi
+        - pavucontrol
         - tailscale
         - trayscale
         - tmux
