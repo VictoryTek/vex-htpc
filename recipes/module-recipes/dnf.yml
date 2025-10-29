@@ -9,7 +9,9 @@ modules:
       #  - https://download.docker.com/linux/fedora/docker-ce.repo
 
       copr:
-        - gloriouseggroll/nobara-42                           # ghostty, starship
+#        - gloriouseggroll/nobara-42                           # ghostty, starship
+        - atim/starship                                       # starship
+        - scottames/ghostty                                   # ghostty
         - peterwu/rendezvous                                  # bibata-cursor-themes
 
       # Put any repo GPG keys here
@@ -39,7 +41,5 @@ modules:
         - gnome-tweaks
 
         # Terminal & Shell Enhancements
-        - ghostty                                             # gloriouseggroll/nobara-42
-        - starship                                            # gloriouseggroll/nobara-42
-
-
+        - ghostty                                             # scottames/ghostty
+        - starship                                            # atim/starship
