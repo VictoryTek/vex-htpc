@@ -6,6 +6,6 @@ modules:
       - Alphabetical App Grid
       - Dash to Dock
       - Gnome 4x UI Improvements
-      - Quick Settings Tweaks
+      #- Quick Settings Tweaks
       - Steal my focus window
       - Tailscale QS
